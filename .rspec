@@ -2,3 +2,5 @@
 --require pry
 --format documentation
 --require spec_helper
+--fail-fast
+
